@@ -3,17 +3,9 @@
 
 - 🔭 I’m currently working on **AI-based web projects and frontend apps**
 
-- 🌱 I’m currently learning **React, GSAP, and Generative AI**
-
-- 👯 I’m looking to collaborate on **React projects and AI tools**
-
-- 🤝 I’m looking for help with **Backend development and API integration**
-
-- 💬 Ask me about **React, JavaScript, animations, and beginner AI apps**
+- 🌱 I’m currently learning **Generative AI LLM RAG and building projects**
 
 - 📫 How to reach me **kc0982525@gmail.com**
-
-- 📄 Know about my experiences(CV)- [file:///C:/Users/KHUSHI%20CHAUHAN/Downloads/Khushi%20Chauhan%20CV%20(1).pdf](file:///C:/Users/KHUSHI%20CHAUHAN/Downloads/Khushi%20Chauhan%20CV%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
